@@ -1,6 +1,3 @@
-// CREATE PACKAGE NAMED LEAVE APPLY FEATURE
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.chromedriver;
 
 //CREATE PUBLIC CLASS
     public static void main(string[]args)
